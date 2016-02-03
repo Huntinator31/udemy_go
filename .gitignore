@@ -14,6 +14,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Directory-based project format:
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+
+
 # Windows shortcuts
 *.lnk
 
